@@ -1503,6 +1503,7 @@ class Form implements Renderable
             'divide'         => Field\Divide::class,
             'embeds'         => Field\Embeds::class,
             'editor'         => Field\Editor::class,
+            'ckeditor'       => Field\CKEditor::class,
             'email'          => Field\Email::class,
             'file'           => Field\File::class,
             'hasMany'        => Field\HasMany::class,
